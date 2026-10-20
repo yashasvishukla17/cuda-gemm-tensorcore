@@ -1,0 +1,7 @@
+GPU: NVIDIA GeForce RTX 3050 A Laptop GPU
+Compute capability: 8.9
+Matrix: 1024x1024 FP32
+Library: cuBLAS SGEMM
+Average time: 0.5104 ms
+Throughput: 4.2078 TFLOP/s
+Correctness: PASS

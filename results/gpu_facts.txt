@@ -1,0 +1,9 @@
+GPU: NVIDIA GeForce RTX 3050 A Laptop GPU
+Compute capability: 8.9
+SM count: 14
+Global memory (GiB): 4.00
+Memory bus width (bits): 64
+Shared memory per block (KiB): 48.00
+Registers per block: 65536
+Max threads per block: 1024
+L2 cache (MiB): 16.00
